@@ -14,7 +14,7 @@ Share clean and optimized solutions
 
 Build a personal reference for common algorithmic patterns
 
-🧠 Content
+- Content
 
 You will find implementations related to:
 
