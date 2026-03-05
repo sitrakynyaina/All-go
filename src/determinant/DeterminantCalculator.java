@@ -1,6 +1,5 @@
 package determinant;
 
-import core.Matrix;
 import core.SquareMatrix;
 
 public interface DeterminantCalculator {
